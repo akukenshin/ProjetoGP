@@ -126,21 +126,3 @@ Interface Gráfica: Criar uma interface web para facilitar o uso.
 
 Cobertura de Testes: Expandir os testes para cobrir mais cenários de borda.
 
-Como Contribuir
-
-Faça um fork do repositório.
-
-Crie uma branch para sua feature ou bugfix:
-
-git checkout -b minha-feature
-
-Commit suas alterações:
-
-git commit -m "Adiciona nova feature"
-
-Faça o push para sua branch:
-
-git push origin minha-feature
-
-Abra um Pull Request.
-
