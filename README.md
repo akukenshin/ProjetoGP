@@ -125,5 +125,3 @@ Autenticação: Implementar autenticação nos endpoints da API.
 Interface Gráfica: Criar uma interface web para facilitar o uso.
 
 Cobertura de Testes: Expandir os testes para cobrir mais cenários de borda.
-
->>>>>>> master
