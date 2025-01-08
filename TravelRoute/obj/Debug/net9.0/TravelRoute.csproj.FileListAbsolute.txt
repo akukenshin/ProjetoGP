@@ -1,0 +1,15 @@
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\bin\Debug\net9.0\TravelRoute.exe
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\bin\Debug\net9.0\TravelRoute.deps.json
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\bin\Debug\net9.0\TravelRoute.runtimeconfig.json
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\bin\Debug\net9.0\TravelRoute.dll
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\bin\Debug\net9.0\TravelRoute.pdb
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.AssemblyInfo.cs
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.dll
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\refint\TravelRoute.dll
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.pdb
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.genruntimeconfig.cache
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\ref\TravelRoute.dll
+C:\Users\Bryan\Documents\projetoGP\TravelRoute\obj\Debug\net9.0\TravelRoute.csproj.AssemblyReference.cache
